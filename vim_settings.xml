@@ -1,0 +1,1349 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/checkout/CheckoutContract.java" timestamp="1517295292292">
+        <mark key="'" line="270" column="32" />
+        <mark key="[" line="332" column="16" />
+        <mark key="]" line="337" column="70" />
+        <mark key="." line="547" column="17" />
+        <mark key="^" line="547" column="17" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/order_detail_first_content.xml" timestamp="1514352352198">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="143" column="14" />
+        <mark key="^" line="133" column="35" />
+        <mark key="." line="133" column="35" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/OrderReceiptFragment.java" timestamp="1517289748206">
+        <mark key="'" line="256" column="41" />
+        <mark key="[" line="263" column="0" />
+        <mark key="]" line="263" column="27" />
+        <mark key="." line="263" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/NetworkUtils.java" timestamp="1516685148135">
+        <mark key="'" line="114" column="46" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="145" column="11" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/DialogOnBottomForProductDeatilsSizeColor.java" timestamp="1512703397646">
+        <mark key="'" line="128" column="13" />
+        <mark key="[" line="333" column="47" />
+        <mark key="]" line="333" column="53" />
+        <mark key="." line="333" column="53" />
+        <mark key="^" line="333" column="53" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" timestamp="1517369880606">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="114" column="12" />
+        <mark key="]" line="122" column="13" />
+        <mark key="^" line="114" column="11" />
+        <mark key="." line="114" column="12" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/CheckoutBusinessManager.java" timestamp="1516170679039">
+        <mark key="'" line="83" column="17" />
+        <mark key="[" line="102" column="53" />
+        <mark key="]" line="102" column="66" />
+        <mark key="." line="102" column="66" />
+        <mark key="^" line="102" column="66" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/myAccount/Ware.java" timestamp="1515562107034">
+        <mark key="'" line="49" column="29" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="5" column="18" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" timestamp="1517291765719">
+        <mark key="'" line="335" column="0" />
+        <mark key="[" line="623" column="0" />
+        <mark key="]" line="624" column="58" />
+        <mark key="." line="624" column="27" />
+        <mark key="^" line="624" column="26" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" timestamp="1517364568160">
+        <mark key="'" line="1140" column="23" />
+        <mark key="[" line="308" column="11" />
+        <mark key="]" line="308" column="11" />
+        <mark key="." line="308" column="11" />
+        <mark key="^" line="134" column="17" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/Urls.java" timestamp="1516009308196">
+        <mark key="'" line="205" column="50" />
+        <mark key="[" line="246" column="31" />
+        <mark key="]" line="246" column="43" />
+        <mark key="." line="247" column="12" />
+        <mark key="^" line="244" column="3" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/order_detail_footer_view.xml" timestamp="1514354084915">
+        <mark key="'" line="7" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="229" column="37" />
+        <mark key="^" line="143" column="37" />
+        <mark key="." line="143" column="37" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/ProductDetailBean.java" timestamp="1514450174129">
+        <mark key="'" line="258" column="22" />
+        <mark key="[" line="128" column="27" />
+        <mark key="]" line="128" column="26" />
+        <mark key="^" line="128" column="26" />
+        <mark key="." line="128" column="26" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/activity/MainActivityGroup.java" timestamp="1516858661162">
+        <mark key="'" line="284" column="21" />
+        <mark key="[" line="290" column="9" />
+        <mark key="]" line="291" column="7" />
+        <mark key="^" line="291" column="7" />
+        <mark key="." line="291" column="7" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/shopping/ProductCartItemBean.java" timestamp="1515483726784">
+        <mark key="'" line="62" column="0" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="20" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/event/SwitchTabEvent.java" timestamp="1516858528293">
+        <mark key="'" line="27" column="28" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="37" />
+        <mark key="^" line="27" column="37" />
+        <mark key="." line="27" column="37" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/shopping/ChoiceDiscountActivity.java" timestamp="1512969287597">
+        <mark key="'" line="225" column="122" />
+        <mark key="[" line="282" column="114" />
+        <mark key="]" line="282" column="114" />
+        <mark key="." line="282" column="114" />
+        <mark key="^" line="282" column="111" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/BaseFragment.java" timestamp="1516858857034">
+        <mark key="'" line="50" column="11" />
+        <mark key="[" line="112" column="47" />
+        <mark key="]" line="113" column="19" />
+        <mark key="." line="113" column="19" />
+        <mark key="^" line="113" column="19" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/LogUtils.java" timestamp="1513071334264">
+        <mark key="'" line="259" column="17" />
+        <mark key="[" line="259" column="12" />
+        <mark key="]" line="259" column="15" />
+        <mark key="." line="259" column="15" />
+        <mark key="^" line="259" column="15" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/MyOrderDetailFragment.java" timestamp="1514359948612">
+        <mark key="'" line="40" column="24" />
+        <mark key="[" line="19" column="13" />
+        <mark key="]" line="19" column="13" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="19" column="12" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/ReviewSizingView.java" timestamp="1513773536971">
+        <mark key="'" line="67" column="42" />
+        <mark key="[" line="90" column="9" />
+        <mark key="]" line="91" column="20" />
+        <mark key="." line="91" column="20" />
+        <mark key="^" line="91" column="20" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/CheckoutCostSummaryView.java" timestamp="1515410658244">
+        <mark key="'" line="85" column="46" />
+        <mark key="[" line="29" column="13" />
+        <mark key="]" line="29" column="13" />
+        <mark key="." line="29" column="13" />
+        <mark key="^" line="29" column="12" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/checkout/TermsAndConditionsDialog.java" timestamp="1515404132789">
+        <mark key="'" line="123" column="64" />
+        <mark key="[" line="130" column="56" />
+        <mark key="]" line="131" column="39" />
+        <mark key="^" line="131" column="39" />
+        <mark key="." line="131" column="39" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/dialog_terms_and_conditions.xml" timestamp="1515404678042">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+        <mark key="^" line="29" column="37" />
+      </file>
+      <file name="H:/SDK/sources/android-26/android/graphics/Paint.java" timestamp="1513774741142">
+        <mark key="'" line="482" column="8" />
+        <mark key="[" line="479" column="8" />
+        <mark key="]" line="479" column="7" />
+        <mark key="^" line="479" column="7" />
+        <mark key="." line="479" column="7" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/EditTextDialog.java" timestamp="1516003117682">
+        <mark key="'" line="70" column="32" />
+        <mark key="[" line="68" column="21" />
+        <mark key="]" line="70" column="59" />
+        <mark key="." line="70" column="59" />
+        <mark key="^" line="70" column="59" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/resources/internal/InflaterFactory.java" timestamp="1515462599997">
+        <mark key="'" line="31" column="8" />
+        <mark key="[" line="123" column="23" />
+        <mark key="]" line="123" column="28" />
+        <mark key="^" line="123" column="28" />
+        <mark key="." line="123" column="28" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/product/ProductPreviewFragment.java" timestamp="1514886237312">
+        <mark key="'" line="49" column="60" />
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/FileUtils.java" timestamp="1517289650666">
+        <mark key="'" line="24" column="54" />
+        <mark key="[" line="24" column="54" />
+        <mark key="]" line="24" column="59" />
+        <mark key="." line="24" column="59" />
+        <mark key="^" line="24" column="59" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/values/strings.xml" timestamp="1517205630026">
+        <mark key="'" line="17" column="11" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="562" column="48" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/activity/FragmentStack.java" timestamp="1513824447854">
+        <mark key="'" line="80" column="30" />
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="35" />
+        <mark key="^" line="52" column="35" />
+        <mark key="." line="52" column="35" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/LogUtils.java" timestamp="1516591502506">
+        <mark key="'" line="252" column="19" />
+        <mark key="[" line="252" column="43" />
+        <mark key="]" line="252" column="42" />
+        <mark key="^" line="252" column="42" />
+        <mark key="." line="252" column="42" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/BaseBusinessManager.java" timestamp="1514466189841">
+        <mark key="'" line="39" column="27" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="27" column="11" />
+        <mark key="^" line="27" column="11" />
+        <mark key="." line="27" column="11" />
+      </file>
+      <file name="H:/Project/Moonbasa/jcvideoplayer-lib/src/main/java/fm/jiecao/jcvideoplayer_lib/JCVideoPlayerCustom.java" timestamp="1514178445792">
+        <mark key="'" line="241" column="23" />
+        <mark key="[" line="70" column="78" />
+        <mark key="]" line="246" column="19" />
+        <mark key="." line="246" column="19" />
+        <mark key="^" line="246" column="20" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/exception/ProductDetailException.java" timestamp="1515045058345">
+        <mark key="'" line="9" column="13" />
+        <mark key="[" line="9" column="13" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/view_checkout_cost_summary.xml" timestamp="1515393865534">
+        <mark key="'" line="35" column="29" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="37" column="46" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/Tools.java" timestamp="1516684650326">
+        <mark key="'" line="38" column="20" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="189" column="0" />
+        <mark key="^" line="197" column="6" />
+        <mark key="." line="189" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/order_detail_fragment.xml" timestamp="1514360055208">
+        <mark key="'" line="288" column="46" />
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/product/ProductDetailFragment.java" timestamp="1517277632829">
+        <mark key="'" line="258" column="24" />
+        <mark key="[" line="835" column="11" />
+        <mark key="]" line="835" column="11" />
+        <mark key="." line="835" column="11" />
+        <mark key="^" line="430" column="35" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/checkout/TransortMode.java" timestamp="1515994364470">
+        <mark key="'" line="12" column="13" />
+        <mark key="[" line="12" column="18" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/checkout/PayAgainContract.java" timestamp="1517294239970">
+        <mark key="'" line="80" column="13" />
+        <mark key="[" line="101" column="0" />
+        <mark key="]" line="102" column="33" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/event/Action.java" timestamp="1513684855840">
+        <mark key="'" line="7" column="12" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="98" />
+        <mark key="." line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/layout_bottom_bar.xml" timestamp="1516272662596">
+        <mark key="'" line="5" column="46" />
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="61" column="47" />
+        <mark key="." line="61" column="35" />
+        <mark key="^" line="16" column="38" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/dialog_edit_text.xml" timestamp="1515728777440">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="." line="47" column="0" />
+        <mark key="^" line="49" column="31" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/product/ProductDetailBean.java" timestamp="1516780115594">
+        <mark key="'" line="117" column="19" />
+        <mark key="[" line="194" column="23" />
+        <mark key="]" line="194" column="29" />
+        <mark key="^" line="194" column="29" />
+        <mark key="." line="194" column="29" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/CheckUtils.java" timestamp="1516775308404">
+        <mark key="'" line="52" column="22" />
+        <mark key="[" line="55" column="16" />
+        <mark key="]" line="56" column="22" />
+        <mark key="." line="56" column="22" />
+        <mark key="^" line="56" column="22" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/product/ShowTheLookBean.java" timestamp="1514516203048">
+        <mark key="'" line="68" column="26" />
+        <mark key="[" line="72" column="19" />
+        <mark key="]" line="72" column="25" />
+        <mark key="^" line="72" column="25" />
+        <mark key="." line="72" column="25" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/CheckoutProductsView.java" timestamp="1516006124080">
+        <mark key="'" line="148" column="27" />
+        <mark key="[" line="168" column="41" />
+        <mark key="]" line="169" column="32" />
+        <mark key="^" line="169" column="32" />
+        <mark key="." line="169" column="32" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/BaseAlertDialog.java" timestamp="1515067749500">
+        <mark key="'" line="12" column="46" />
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="79" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/drawable/bg_terms_and_conditions_percent.xml" timestamp="1515404848239">
+        <mark key="'" line="2" column="56" />
+        <mark key="[" line="6" column="29" />
+        <mark key="]" line="6" column="29" />
+        <mark key="." line="6" column="29" />
+        <mark key="^" line="6" column="29" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/AddressManageBean.java" timestamp="1516175323008">
+        <mark key="'" line="80" column="24" />
+        <mark key="[" line="80" column="19" />
+        <mark key="]" line="80" column="23" />
+        <mark key="." line="80" column="23" />
+        <mark key="^" line="80" column="23" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/checkout/CartItems.java" timestamp="1515481306015">
+        <mark key="'" line="115" column="29" />
+        <mark key="[" line="10" column="4" />
+        <mark key="]" line="115" column="46" />
+        <mark key="^" line="10" column="3" />
+        <mark key="." line="10" column="4" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/RedPacketDialogForAll.java" timestamp="1513653573273">
+        <mark key="'" line="118" column="29" />
+        <mark key="[" line="22" column="22" />
+        <mark key="]" line="22" column="22" />
+        <mark key="." line="22" column="22" />
+        <mark key="^" line="87" column="3" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_checkout.xml" timestamp="1517191656253">
+        <mark key="'" line="27" column="20" />
+        <mark key="[" line="267" column="33" />
+        <mark key="]" line="268" column="11" />
+        <mark key="^" line="268" column="11" />
+        <mark key="." line="268" column="11" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/RedPacketBusinessForAll.java" timestamp="1513664661160">
+        <mark key="'" line="142" column="49" />
+        <mark key="[" line="37" column="22" />
+        <mark key="]" line="37" column="22" />
+        <mark key="." line="37" column="22" />
+        <mark key="^" line="37" column="21" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/layout_nav_product_detail.xml" timestamp="1513238695600">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="43" />
+        <mark key="." line="10" column="43" />
+        <mark key="^" line="10" column="43" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/LogisticsTrackingFragment.java" timestamp="1516858679674">
+        <mark key="'" line="279" column="8" />
+        <mark key="[" line="279" column="18" />
+        <mark key="]" line="279" column="25" />
+        <mark key="." line="279" column="25" />
+        <mark key="^" line="279" column="25" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/AndroidManifest.xml" timestamp="1515638623028">
+        <mark key="'" line="1180" column="35" />
+        <mark key="[" line="1180" column="35" />
+        <mark key="]" line="1180" column="43" />
+        <mark key="." line="1180" column="43" />
+        <mark key="^" line="1180" column="43" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/product/IntegerJsonBean.java" timestamp="1514949201682">
+        <mark key="'" line="12" column="19" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="20" />
+        <mark key="^" line="12" column="19" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/OrderDetailContract.java" timestamp="1516675457023">
+        <mark key="'" line="89" column="30" />
+        <mark key="[" line="98" column="0" />
+        <mark key="]" line="122" column="8" />
+        <mark key="." line="70" column="16" />
+        <mark key="^" line="70" column="16" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/ProductDetailBusinessManager.java" timestamp="1515649730547">
+        <mark key="'" line="140" column="17" />
+        <mark key="[" line="138" column="23" />
+        <mark key="]" line="138" column="43" />
+        <mark key="." line="140" column="59" />
+        <mark key="^" line="139" column="44" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/CountDownHelper.java" timestamp="1516168150665">
+        <mark key="'" line="39" column="23" />
+        <mark key="[" line="66" column="45" />
+        <mark key="]" line="66" column="45" />
+        <mark key="^" line="66" column="45" />
+        <mark key="." line="66" column="45" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/adapter/ButterKnifeViewHolder.java" timestamp="1513826254149">
+        <mark key="'" line="9" column="6" />
+        <mark key="[" line="16" column="11" />
+        <mark key="]" line="16" column="22" />
+        <mark key="^" line="15" column="19" />
+        <mark key="." line="16" column="11" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/product/ProductMoreDetailsBean.java" timestamp="1515649793894">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="17" column="28" />
+        <mark key="]" line="17" column="28" />
+        <mark key="^" line="15" column="15" />
+        <mark key="." line="17" column="28" />
+      </file>
+      <file name="H:/Project/Moonbasa106708/commoonbasaandroid41/src/main/java/com/moonbasa/utils/Tools.java" timestamp="1512724037806">
+        <mark key="'" line="2948" column="54" />
+        <mark key="[" line="2948" column="0" />
+        <mark key="]" line="2960" column="18" />
+        <mark key="." line="2948" column="296" />
+        <mark key="^" line="2948" column="25" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/view_review_sizing.xml" timestamp="1513770464806">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="52" column="39" />
+        <mark key="]" line="53" column="39" />
+        <mark key="." line="53" column="39" />
+        <mark key="^" line="53" column="39" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/item_cost_summary.xml" timestamp="1516253556253">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="30" column="25" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/shopping/CartGoodsListFragment.java" timestamp="1517294187343">
+        <mark key="'" line="495" column="16" />
+        <mark key="[" line="497" column="12" />
+        <mark key="]" line="497" column="23" />
+        <mark key="." line="495" column="62" />
+        <mark key="^" line="325" column="23" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/checkout/Address.java" timestamp="1515490515353">
+        <mark key="'" line="33" column="17" />
+        <mark key="[" line="35" column="11" />
+        <mark key="]" line="35" column="17" />
+        <mark key="^" line="35" column="17" />
+        <mark key="." line="35" column="17" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/drawable/shape_product_color_normal.xml" timestamp="1516692970663">
+        <mark key="'" line="6" column="31" />
+        <mark key="[" line="5" column="23" />
+        <mark key="]" line="5" column="23" />
+        <mark key="." line="5" column="23" />
+        <mark key="^" line="5" column="23" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/mbs/presenter/SearchProductPresenterV2.java" timestamp="1513664205307">
+        <mark key="'" line="83" column="53" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="106" />
+        <mark key="^" line="20" column="15" />
+        <mark key="." line="20" column="15" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/EncryptUtils.java" timestamp="1513219918463">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="301" column="24" />
+        <mark key="]" line="301" column="39" />
+        <mark key="^" line="301" column="39" />
+        <mark key="." line="301" column="39" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/JCVideoPlayerCustom.java" timestamp="1513058553868">
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="12" column="56" />
+        <mark key="]" line="13" column="48" />
+        <mark key="^" line="13" column="48" />
+        <mark key="." line="13" column="48" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/drawable/product_btn_bg.xml" timestamp="1513302316300">
+        <mark key="'" line="5" column="34" />
+        <mark key="[" line="2" column="53" />
+        <mark key="]" line="2" column="55" />
+        <mark key="." line="2" column="55" />
+        <mark key="^" line="2" column="55" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/activity_main.xml" timestamp="1516272361660">
+        <mark key="'" line="15" column="29" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/my_account_common_top_view.xml" timestamp="1514344797647">
+        <mark key="'" line="49" column="0" />
+        <mark key="[" line="13" column="29" />
+        <mark key="]" line="13" column="50" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="13" column="31" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/product/YouMayAlsoLikeBean.java" timestamp="1514968061690">
+        <mark key="'" line="141" column="25" />
+        <mark key="[" line="7" column="3" />
+        <mark key="]" line="8" column="28" />
+        <mark key="^" line="8" column="28" />
+        <mark key="." line="8" column="28" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/TopBarCustomView.java" timestamp="1516327561052">
+        <mark key="'" line="204" column="17" />
+        <mark key="[" line="234" column="27" />
+        <mark key="]" line="234" column="31" />
+        <mark key="^" line="234" column="31" />
+        <mark key="." line="234" column="31" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/activity/BaseActivityGroup.java" timestamp="1512719556201">
+        <mark key="'" line="184" column="4" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="25" column="15" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/BannerView.java" timestamp="1516872542736">
+        <mark key="'" line="292" column="92" />
+        <mark key="[" line="294" column="0" />
+        <mark key="]" line="295" column="54" />
+        <mark key="." line="295" column="52" />
+        <mark key="^" line="295" column="52" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/UserUtils.java" timestamp="1517293037895">
+        <mark key="'" line="20" column="13" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/activity/HomeActivity.java" timestamp="1512722177684">
+        <mark key="'" line="33" column="24" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="78" column="4" />
+        <mark key="^" line="44" column="48" />
+        <mark key="." line="44" column="48" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/build.gradle" timestamp="1516592794014">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="199" column="29" />
+        <mark key="]" line="199" column="91" />
+        <mark key="^" line="176" column="65" />
+        <mark key="." line="152" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/product/ProductMoreDetailsContract.java" timestamp="1515649940459">
+        <mark key="'" line="41" column="56" />
+        <mark key="[" line="111" column="20" />
+        <mark key="]" line="111" column="51" />
+        <mark key="." line="111" column="51" />
+        <mark key="^" line="111" column="51" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/BlankFragment.java" timestamp="1512971445953">
+        <mark key="'" line="64" column="34" />
+        <mark key="[" line="64" column="34" />
+        <mark key="]" line="64" column="41" />
+        <mark key="." line="64" column="41" />
+        <mark key="^" line="64" column="41" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/myAccount/OrderDetailDataBean.java" timestamp="1516783909422">
+        <mark key="'" line="118" column="18" />
+        <mark key="[" line="118" column="18" />
+        <mark key="]" line="118" column="25" />
+        <mark key="." line="118" column="25" />
+        <mark key="^" line="118" column="25" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/values/colors.xml" timestamp="1515143309298">
+        <mark key="'" line="4" column="17" />
+        <mark key="[" line="20" column="23" />
+        <mark key="]" line="20" column="29" />
+        <mark key="." line="20" column="29" />
+        <mark key="^" line="20" column="28" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/OrderReceiptProductsView.java" timestamp="1517197239940">
+        <mark key="'" line="151" column="65" />
+        <mark key="[" line="168" column="34" />
+        <mark key="]" line="168" column="52" />
+        <mark key="^" line="156" column="11" />
+        <mark key="." line="168" column="34" />
+      </file>
+      <file name="H:/Project/Moonbasa/jcvideoplayer-lib/src/main/java/fm/jiecao/jcvideoplayer_lib/JCVideoPlayer.java" timestamp="1514179121606">
+        <mark key="'" line="92" column="27" />
+        <mark key="[" line="291" column="51" />
+        <mark key="]" line="291" column="68" />
+        <mark key="." line="205" column="6" />
+        <mark key="^" line="191" column="11" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/shopping/CartContract.java" timestamp="1517294211473">
+        <mark key="'" line="216" column="12" />
+        <mark key="[" line="329" column="12" />
+        <mark key="]" line="329" column="56" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/MyBagFragment.java" timestamp="1512980995784">
+        <mark key="'" line="37" column="24" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="30" column="4" />
+        <mark key="^" line="29" column="79" />
+        <mark key="." line="29" column="79" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/SkinPackageManager.java" timestamp="1517364583788">
+        <mark key="'" line="139" column="19" />
+        <mark key="[" line="28" column="41" />
+        <mark key="]" line="28" column="52" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/checkout/OrderReceiptContract.java" timestamp="1516348517494">
+        <mark key="'" line="64" column="30" />
+        <mark key="[" line="70" column="25" />
+        <mark key="]" line="71" column="7" />
+        <mark key="^" line="71" column="7" />
+        <mark key="." line="71" column="7" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/ShopFragment.java" timestamp="1513645156451">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="48" column="56" />
+        <mark key="]" line="48" column="60" />
+        <mark key="." line="48" column="60" />
+        <mark key="^" line="48" column="60" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/drawable/shape_product_size_normal.xml" timestamp="1513577926795">
+        <mark key="'" line="5" column="33" />
+        <mark key="[" line="5" column="34" />
+        <mark key="]" line="5" column="34" />
+        <mark key="." line="5" column="34" />
+        <mark key="^" line="5" column="34" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_pay_again.xml" timestamp="1516675889301">
+        <mark key="'" line="109" column="38" />
+        <mark key="[" line="109" column="38" />
+        <mark key="]" line="109" column="63" />
+        <mark key="." line="109" column="38" />
+        <mark key="^" line="242" column="41" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/CheckRedPacketManager.java" timestamp="1513665578921">
+        <mark key="'" line="14" column="80" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="27" />
+        <mark key="^" line="19" column="50" />
+        <mark key="." line="14" column="18" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_product_detail.xml" timestamp="1517277637393">
+        <mark key="'" line="26" column="28" />
+        <mark key="[" line="10" column="25" />
+        <mark key="]" line="10" column="39" />
+        <mark key="." line="25" column="15" />
+        <mark key="^" line="25" column="15" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/KeyBoardControllerUtils.java" timestamp="1516003890768">
+        <mark key="'" line="57" column="0" />
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="^" line="46" column="24" />
+        <mark key="." line="63" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/OrderAndReturnBusinessManager.java" timestamp="1514509886088">
+        <mark key="'" line="19" column="27" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/CostSummaryView.java" timestamp="1517196213434">
+        <mark key="'" line="134" column="6" />
+        <mark key="[" line="177" column="7" />
+        <mark key="]" line="177" column="9" />
+        <mark key="." line="177" column="9" />
+        <mark key="^" line="177" column="9" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/CircleImageView.java" timestamp="1513774935293">
+        <mark key="'" line="76" column="24" />
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="62" column="76" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/entity/ProductDetail/NewProductDetailEntity.java" timestamp="1513820550277">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="461" column="0" />
+        <mark key="]" line="462" column="31" />
+        <mark key="^" line="462" column="31" />
+        <mark key="." line="462" column="31" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/order_detail_shipping_date.xml" timestamp="1514352870949">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="46" column="37" />
+        <mark key="^" line="29" column="39" />
+        <mark key="." line="29" column="39" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/ImageUtils.java" timestamp="1517289645319">
+        <mark key="'" line="330" column="35" />
+        <mark key="[" line="288" column="0" />
+        <mark key="]" line="288" column="0" />
+        <mark key="." line="288" column="0" />
+        <mark key="^" line="289" column="49" />
+      </file>
+      <file name="H:/Project/Moonbasa/jcvideoplayer-lib/src/main/res/layout/jc_layout_standard.xml" timestamp="1514178363402">
+        <mark key="'" line="12" column="0" />
+        <mark key="[" line="149" column="28" />
+        <mark key="]" line="149" column="36" />
+        <mark key="." line="149" column="36" />
+        <mark key="^" line="149" column="36" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/MoreFragment.java" timestamp="1515995273306">
+        <mark key="'" line="34" column="22" />
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="^" line="56" column="47" />
+        <mark key="." line="120" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/RecyclerViewForScrollView.java" timestamp="1517282553165">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="27" column="4" />
+        <mark key="]" line="34" column="5" />
+        <mark key="^" line="27" column="3" />
+        <mark key="." line="27" column="4" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_reviews.xml" timestamp="1513770451862">
+        <mark key="'" line="16" column="25" />
+        <mark key="[" line="22" column="39" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/ReviewsFragment.java" timestamp="1513834302346">
+        <mark key="'" line="35" column="19" />
+        <mark key="[" line="61" column="30" />
+        <mark key="]" line="62" column="34" />
+        <mark key="^" line="62" column="34" />
+        <mark key="." line="62" column="34" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/drawable/shape_edit_text_dialog.xml" timestamp="1515055813733">
+        <mark key="'" line="2" column="34" />
+        <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="57" />
+        <mark key="." line="4" column="57" />
+        <mark key="^" line="4" column="57" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/afinal/FinalHttpClient.java" timestamp="1513219993861">
+        <mark key="'" line="379" column="33" />
+        <mark key="[" line="118" column="29" />
+        <mark key="]" line="118" column="32" />
+        <mark key="." line="118" column="32" />
+        <mark key="^" line="118" column="32" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_order_detail.xml" timestamp="1517282584291">
+        <mark key="'" line="63" column="45" />
+        <mark key="[" line="316" column="13" />
+        <mark key="]" line="316" column="57" />
+        <mark key="." line="316" column="57" />
+        <mark key="^" line="316" column="57" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/newproduct/NewProductDetailsActivity.java" timestamp="1516587963377">
+        <mark key="'" line="871" column="66" />
+        <mark key="[" line="3042" column="0" />
+        <mark key="]" line="3045" column="13" />
+        <mark key="." line="3058" column="92" />
+        <mark key="^" line="3058" column="92" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/AddressManagementFragment.java" timestamp="1516695006979">
+        <mark key="'" line="80" column="27" />
+        <mark key="[" line="262" column="15" />
+        <mark key="]" line="262" column="23" />
+        <mark key="." line="262" column="23" />
+        <mark key="^" line="262" column="23" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/res/layout/layout_new_product_pic.xml" timestamp="1513068812320">
+        <mark key="'" line="13" column="45" />
+        <mark key="[" line="13" column="5" />
+        <mark key="]" line="13" column="51" />
+        <mark key="." line="13" column="51" />
+        <mark key="^" line="13" column="51" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/EditEmailDailog.java" timestamp="1515055051618">
+        <mark key="'" line="23" column="24" />
+        <mark key="[" line="11" column="17" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="16" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/view_product_color.xml" timestamp="1514443010091">
+        <mark key="'" line="4" column="44" />
+        <mark key="[" line="1" column="21" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/mbs/net/Urls.java" timestamp="1517365573422">
+        <mark key="'" line="32" column="14" />
+        <mark key="[" line="13" column="43" />
+        <mark key="]" line="13" column="43" />
+        <mark key="." line="13" column="43" />
+        <mark key="^" line="13" column="46" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/entity/OrderDetailBean.java" timestamp="1515551900281">
+        <mark key="'" line="96" column="26" />
+        <mark key="[" line="6" column="3" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/YouMayAlsoLikeView.java" timestamp="1516872687540">
+        <mark key="'" line="219" column="12" />
+        <mark key="[" line="221" column="0" />
+        <mark key="]" line="222" column="58" />
+        <mark key="." line="209" column="19" />
+        <mark key="^" line="209" column="19" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/order_detail_shipping_content.xml" timestamp="1514352397461">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="74" column="14" />
+        <mark key="^" line="56" column="39" />
+        <mark key="." line="56" column="39" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_product_preview.xml" timestamp="1514883723951">
+        <mark key="'" line="5" column="32" />
+        <mark key="[" line="15" column="25" />
+        <mark key="]" line="15" column="35" />
+        <mark key="^" line="15" column="35" />
+        <mark key="." line="15" column="35" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/utils/CheckUtils.java" timestamp="1512638046107">
+        <mark key="'" line="19" column="26" />
+        <mark key="[" line="30" column="29" />
+        <mark key="]" line="30" column="31" />
+        <mark key="." line="30" column="31" />
+        <mark key="^" line="30" column="31" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1517366552332">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/fragment_order_receipt.xml" timestamp="1516785801898">
+        <mark key="'" line="163" column="0" />
+        <mark key="[" line="225" column="37" />
+        <mark key="]" line="225" column="58" />
+        <mark key="." line="225" column="37" />
+        <mark key="^" line="337" column="46" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/RedPacketForAll.java" timestamp="1513674035457">
+        <mark key="'" line="53" column="0" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="287" column="4" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="154" column="29" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" timestamp="1517388062942">
+        <mark key="'" line="77" column="5" />
+        <mark key="[" line="568" column="29" />
+        <mark key="]" line="568" column="66" />
+        <mark key="." line="139" column="80" />
+        <mark key="^" line="139" column="80" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/ui/CustomJCVideoPlayer.java" timestamp="1513056656767">
+        <mark key="'" line="57" column="17" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="13" />
+        <mark key="^" line="36" column="12" />
+        <mark key="." line="36" column="13" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/PayAgainFragment.java" timestamp="1517293057127">
+        <mark key="'" line="173" column="19" />
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="^" line="53" column="23" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/ProductDetailContract.java" timestamp="1514189085838">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="36" column="24" />
+        <mark key="]" line="36" column="25" />
+        <mark key="." line="36" column="25" />
+        <mark key="^" line="36" column="25" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/product/ProductDetailContract.java" timestamp="1516693418807">
+        <mark key="'" line="581" column="30" />
+        <mark key="[" line="148" column="13" />
+        <mark key="]" line="148" column="38" />
+        <mark key="." line="145" column="25" />
+        <mark key="^" line="145" column="25" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/OrderReceiptContract.java" timestamp="1516697902261">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="91" column="0" />
+        <mark key="]" line="98" column="13" />
+        <mark key="." line="91" column="0" />
+        <mark key="^" line="102" column="16" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/res/values/color.xml" timestamp="1517366000353">
+        <mark key="[" line="535" column="0" />
+        <mark key="]" line="536" column="88" />
+        <mark key="." line="535" column="82" />
+      </file>
+      <file name="H:/Project/Moonbasa/jcvideoplayer-lib/src/main/java/fm/jiecao/jcvideoplayer_lib/JCVideoPlayerStandard.java" timestamp="1513059609626">
+        <mark key="'" line="250" column="8" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="769" column="4" />
+        <mark key="." line="61" column="47" />
+        <mark key="^" line="61" column="47" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/OrderDetailBusinessManager.java" timestamp="1515554518412">
+        <mark key="'" line="23" column="17" />
+        <mark key="[" line="22" column="61" />
+        <mark key="]" line="22" column="75" />
+        <mark key="^" line="22" column="75" />
+        <mark key="." line="22" column="75" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/ProductMoreDetailsFragment.java" timestamp="1513849501184">
+        <mark key="'" line="48" column="24" />
+        <mark key="[" line="46" column="12" />
+        <mark key="]" line="45" column="12" />
+        <mark key="^" line="45" column="12" />
+        <mark key="." line="45" column="12" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/TimeUtils.java" timestamp="1516768316549">
+        <mark key="'" line="52" column="31" />
+        <mark key="[" line="52" column="28" />
+        <mark key="]" line="52" column="31" />
+        <mark key="^" line="52" column="31" />
+        <mark key="." line="52" column="31" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/enumerate/OrderStatus.java" timestamp="1516775626463">
+        <mark key="'" line="51" column="4" />
+        <mark key="[" line="21" column="4" />
+        <mark key="]" line="21" column="13" />
+        <mark key="^" line="3" column="6" />
+        <mark key="." line="3" column="6" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/item_select_delivery_method.xml" timestamp="1515985902850">
+        <mark key="'" line="30" column="29" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="50" column="19" />
+        <mark key="." line="56" column="31" />
+        <mark key="^" line="56" column="31" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/view_checkout_products_image.xml" timestamp="1517197229745">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="17" column="25" />
+        <mark key="]" line="17" column="42" />
+        <mark key="." line="19" column="34" />
+        <mark key="^" line="19" column="34" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/product/ProductMoreDetailsFragment.java" timestamp="1517203874959">
+        <mark key="'" line="64" column="26" />
+        <mark key="[" line="65" column="45" />
+        <mark key="]" line="66" column="47" />
+        <mark key="." line="66" column="47" />
+        <mark key="^" line="66" column="47" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/HttpClient.java" timestamp="1516587179085">
+        <mark key="'" line="112" column="8" />
+        <mark key="[" line="397" column="67" />
+        <mark key="]" line="398" column="35" />
+        <mark key="." line="398" column="35" />
+        <mark key="^" line="398" column="35" />
+      </file>
+      <file name="H:/Project/AmericanApp/gradle.properties" timestamp="1516325338517">
+        <mark key="'" line="30" column="19" />
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="20" column="20" />
+        <mark key="^" line="19" column="27" />
+        <mark key="." line="20" column="20" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/CheckClipboardManager.java" timestamp="1515054182690">
+        <mark key="'" line="168" column="41" />
+        <mark key="[" line="373" column="0" />
+        <mark key="]" line="373" column="56" />
+        <mark key="." line="157" column="0" />
+        <mark key="^" line="152" column="6" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/res/layout/layout_main_product_detail.xml" timestamp="1517277651631">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="32" column="36" />
+        <mark key="]" line="32" column="44" />
+        <mark key="." line="32" column="44" />
+        <mark key="^" line="32" column="44" />
+      </file>
+      <file name="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/ProductDetailFragment.java" timestamp="1513931404479">
+        <mark key="'" line="70" column="23" />
+        <mark key="[" line="136" column="23" />
+        <mark key="]" line="136" column="41" />
+        <mark key="." line="136" column="41" />
+        <mark key="^" line="136" column="41" />
+      </file>
+      <file name="H:/Project/Moonbasa/commoonbasaandroid41/src/main/res/layout/red_packet_dialog2.xml" timestamp="1514289518447">
+        <mark key="'" line="6" column="32" />
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="26" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="26" column="42" />
+      </file>
+      <file name="/fragment.java" timestamp="1517293390709">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="601" column="4" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="24" column="8" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/widget/RecyclerViewForScrollView.java" />
+      <jump line="23282" column="16" filename="H:/SDK/sources/android-26/android/view/View.java" />
+      <jump line="402" column="18" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="140" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/OrderReceiptFragment.java" />
+      <jump line="255" column="41" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/OrderReceiptFragment.java" />
+      <jump line="330" column="35" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/ImageUtils.java" />
+      <jump line="24" column="54" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/FileUtils.java" />
+      <jump line="7" column="29" filename="H:/Project/AmericanApp/app/build/generated/source/buildConfig/brand1/debug/com/moonbasa/BuildConfig.java" />
+      <jump line="820" column="16" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="120" column="19" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="545" column="8" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="636" column="30" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="575" column="50" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="568" column="50" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="551" column="15" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="543" column="8" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="72" column="19" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="489" column="19" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="454" column="16" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="214" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="538" column="8" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="485" column="17" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="181" column="30" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="152" column="35" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="66" column="31" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="579" column="25" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="71" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="335" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/myAccount/OrderDetailFragment.java" />
+      <jump line="293" column="57" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="586" column="17" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="548" column="45" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="11" column="13" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/shopping/BraintreeDropInPayBusinessManage.java" />
+      <jump line="19" column="23" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/net/shopping/BraintreeDropInPayBusinessManage.java" />
+      <jump line="329" column="45" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/shopping/CartContract.java" />
+      <jump line="532" column="35" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="496" column="46" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/shopping/CartGoodsListFragment.java" />
+      <jump line="497" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/shopping/CartGoodsListFragment.java" />
+      <jump line="78" column="25" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/shopping/CartGoodsListFragment.java" />
+      <jump line="20" column="13" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/util/UserUtils.java" />
+      <jump line="173" column="19" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/PayAgainFragment.java" />
+      <jump line="80" column="13" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/checkout/PayAgainContract.java" />
+      <jump line="56" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="40" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BaseView.java" />
+      <jump line="10" column="34" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="44" column="9" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="64" column="11" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="65" column="35" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="105" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="79" column="58" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="495" column="16" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/shopping/CartGoodsListFragment.java" />
+      <jump line="344" column="27" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/shopping/CartContract.java" />
+      <jump line="216" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/shopping/CartContract.java" />
+      <jump line="315" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="642" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="102" column="17" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="61" column="17" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="581" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="496" column="16" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="110" column="19" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="164" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="66" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="97" column="35" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="563" column="26" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="166" column="47" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="196" column="12" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="71" column="30" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="188" column="10" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="185" column="10" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="27" column="22" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="134" column="17" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1016" column="41" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1017" column="40" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="72" column="20" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="932" column="39" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1150" column="30" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1212" column="36" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1398" column="65" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1403" column="65" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1519" column="31" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1690" column="60" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1691" column="29" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="10" column="29" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="329" column="8" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="617" column="42" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="665" column="17" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="668" column="32" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="671" column="32" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1080" column="8" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="1140" column="23" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/android/activity/product/MainActivityGroup.java" />
+      <jump line="28" column="25" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/SkinPackageManager.java" />
+      <jump line="29" column="60" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/SkinPackageManager.java" />
+      <jump line="139" column="19" filename="H:/Project/Moonbasa/commoonbasaandroid41/src/main/java/com/moonbasa/utils/SkinPackageManager.java" />
+      <jump line="205" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="0" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/contract/BrainTreeContract.java" />
+      <jump line="593" column="4" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="829" column="10" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="0" column="0" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="611" column="4" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+      <jump line="77" column="5" filename="H:/Project/AmericanApp/app/src/main/java/com/moonbasa/fragment/checkout/CheckoutFragment.java" />
+    </jumps>
+    <registers>
+      <register name="a" type="4">
+        <keys>
+          <key char="48" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="119" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="117" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="99" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="36" code="0" mods="0" />
+          <key char="98" code="0" mods="0" />
+          <key char="118" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="121" code="0" mods="0" />
+          <key char="107" code="0" mods="0" />
+          <key char="111" code="0" mods="0" />
+          <key char="64" code="0" mods="0" />
+          <key char="83" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="114" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="122" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="78" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="40" code="0" mods="0" />
+          <key char="34" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
+          <key char="112" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="106" code="0" mods="0" />
+          <key char="48" code="0" mods="0" />
+        </keys>
+      </register>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJwcm9kdWN0X2RldGFpbF9wcmljZV90ZXh0Y29sb3IiPiNkZDI3MjY8L2NvbG9yPjwhLS0gtaXGt9KzIM/WvNvOxNfW0dXJqy0tPgogICAgPGNvbG9yIG5hbWU9InByb2R1Y3RfZGV0YWlsX25vcm1hbHByaWNlX3RleHRjb2xvciI+I2FlYWVhZTwvY29sb3I+PCEtLSC1pca30rMg1K28287E19bR1cmrLS0+Cg==</text>
+      </register>
+      <register name="-" type="4">
+        <text>true</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxjb3B5QXBrRnJvbUFzc2V0c1w+</text>
+      </register>
+      <register name="0" type="4">
+        <text>root.put(Constant.CUSCODE, mView.getCusCode());
+                root.put(Constant.ENCRYPTCUSCODE, mView.getEncryptCusCode());
+                root.put(Constant.Platform, Constant.PLATFORM);
+                root.put(Constant.ORDERCODE, mView.getOrderCode());
+                root.put(Constant.PMNONCE, mView.getPmNonce());
+                root.put(Constant.PAYTYPECODE, mView.getPayTypeCode());</text>
+      </register>
+      <register name="1" type="4">
+        <text>// 先获取 ClientToken
+            try {
+                String json = convertInitParams2Json();
+
+                BraintreeDropInPayBusinessManage.getCartGroup(json, mInitPaymentCallback);
+            } catch (Exception e) {
+                LogUtils.e(e);
+                mView.onError(e);
+            }</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgKiC78cihCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgcm9vdC5wdXQoQ29uc3RhbnQuQ1VTQ09ERSwgbVZpZXcuZ2V0Q3VzQ29kZSgpKTsKICAgICAgICAgICAgcm9vdC5wdXQoQ29uc3RhbnQuRU5DUllQVENVU0NPREUsIG1WaWV3LmdldEVuY3J5cHRDdXNDb2RlKCkpOwogICAgICAgICAgICByb290LnB1dChDb25zdGFudC5QbGF0Zm9ybSwgLypDb25zdGFudC5QTEFURk9STSovbVZpZXcuZ2V0UGxhdGZvcm0oKSk7CiAgICAgICAgICAgIHJvb3QucHV0KENvbnN0YW50LlBBWVRZUEVDT0RFLCBtVmlldy5nZXRQYXlUeXBlQ29kZSgpKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBAcmV0dXJuCiAgICAgICAgICogQHRocm93cyBKU09ORXhjZXB0aW9uCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgKiDWp7i2Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB2b2lkIG9uCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpbml0RHJvcEluKGRhdGEuQm9keS5EYXRhKTsK</text>
+      </register>
+      <register name="y" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgUmVzcG9uc2VCb2R5IGJvZHkgPSByZXNwb25zZS5ib2R5KCk7CiAgICAgICAgICAgIElucHV0U3RyZWFtIGluID0gYm9keS5ieXRlU3RyZWFtKCk7CiAgICAgICAgICAgIEZpbGVDaGFubmVsIGNoYW5uZWxPdXQgPSBudWxsOwogICAgICAgICAgICAvLyDL5rv6t8POys7EvP6jrL/J0tTWuLaots+149D4tKu1xMbwyrzOu9bDCiAgICAgICAgICAgIFJhbmRvbUFjY2Vzc0ZpbGUgcmFuZG9tQWNjZXNzRmlsZSA9IG51bGw7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICByYW5kb21BY2Nlc3NGaWxlID0gbmV3IFJhbmRvbUFjY2Vzc0ZpbGUobUZpbGUsICJyd2QiKTsKICAgICAgICAgICAgICAgIC8vQ2hhbmVsIE5JT9bQtcTTw7eoo6zTydPaUmFuZG9tQWNjZXNzRmlsZcO709DKudPDu7q05rLfwtSjrNaxvdPKudPDu+HKubXDz8LU2MvZtsix5ML9o6zH17Liu7q05s/C1NgzLjPD67XEzsS8/qOs08PG1c2otcRSYW5kb21BY2Nlc3NGaWxl0OjSqjIwtuDD66GjCiAgICAgICAgICAgICAgICBjaGFubmVsT3V0ID0gcmFuZG9tQWNjZXNzRmlsZS5nZXRDaGFubmVsKCk7CiAgICAgICAgICAgICAgICAvLyDE2rTm07PJ5KOs1rG908q508NSYW5kb21BY2Nlc3NGaWxlo6zKx9PDxuRzZWVrt723qNa4tqjPwtTYtcTG8Mq8zrvWw6OsyrnTw7u6tObPwtTYo6zU2tXiwO/WuLaoz8LU2M671sOhowogICAgICAgICAgICAgICAgTWFwcGVkQnl0ZUJ1ZmZlciBtYXBwZWRCdWZmZXIgPSBjaGFubmVsT3V0Lm1hcChGaWxlQ2hhbm5lbC5NYXBNb2RlLlJFQURfV1JJVEUsIGJyZWFrUG9pbnQsIGJvZHkuY29udGVudExlbmd0aCgpKTsKICAgICAgICAgICAgICAgIGJ5dGVbXSBidWZmZXIgPSBuZXcgYnl0ZVsxMDI0XTsKICAgICAgICAgICAgICAgIGludCBsZW47CiAgICAgICAgICAgICAgICB3aGlsZSAoKGxlbiA9IGluLnJlYWQoYnVmZmVyKSkgIT0gLTEpIHsKICAgICAgICAgICAgICAgICAgICBtYXBwZWRCdWZmZXIucHV0KGJ1ZmZlciwgMCwgbGVuKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgaW4uY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICBpZiAoY2hhbm5lbE91dCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIGNoYW5uZWxPdXQuY2xvc2UoKTsKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgaWYgKHJhbmRvbUFjY2Vzc0ZpbGUgIT0gbnVsbCkgewogICAgICAgICAgICAgICAgICAgICAgICByYW5kb21BY2Nlc3NGaWxlLmNsb3NlKCk7CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSBjYXRjaCAoSU9FeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmV0dXJuIG1GaWxlLnRvU3RyaW5nKCk7</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxjb3B5QXBrRnJvbUFzc2V0c1w+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxjb3B5QXBrRnJvbUFzc2V0c1w+</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute encoding="base64">XDxtU2l6ZUFkYXB0ZXJcPg==</last-substitute>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>Write</entry>
+        <entry>截图</entry>
+        <entry encoding="base64">XDxpZF9idG5fc3VibWl0XD4=</entry>
+        <entry encoding="base64">XDxnZXRUYXhcPg==</entry>
+        <entry encoding="base64">XDxtT3JkZXJDb2RlXD4=</entry>
+        <entry encoding="base64">XDxGT1JNQVRfUEFZTUVOVF9ERVRBSUxcPg==</entry>
+        <entry encoding="base64">XDxpbml0RHJvcEluXD4=</entry>
+        <entry encoding="base64">XDxtQ2xpZW50VG9rZW5cPg==</entry>
+        <entry encoding="base64">XDxzdWJtaXRPcmRlclw+</entry>
+        <entry encoding="base64">XDxMb2FkUGF5bWVudENsaWVudFRva2VuRGF0YUNhbGxiYWNrXD4=</entry>
+        <entry encoding="base64">XDxtTG9hZFBheW1lbnRDbGllbnRUb2tlbkRhdGFDYWxsYmFja1w+</entry>
+        <entry>submit</entry>
+        <entry>onSuccess</entry>
+        <entry>onP</entry>
+        <entry>onActivityR</entry>
+        <entry>skin</entry>
+        <entry>getAs</entry>
+        <entry>getA</entry>
+        <entry encoding="base64">XDxza2luRmlsZU5hbWVcPg==</entry>
+        <entry encoding="base64">XDxjb3B5QXBrRnJvbUFzc2V0c1w+</entry>
+      </history-search>
+      <history-cmd>
+        <entry>1162</entry>
+        <entry>920</entry>
+        <entry>518</entry>
+        <entry>900</entry>
+        <entry>1123</entry>
+        <entry>388</entry>
+        <entry>340</entry>
+        <entry>3952</entry>
+        <entry>334</entry>
+        <entry>3941</entry>
+        <entry>vsplit</entry>
+        <entry>w</entry>
+        <entry>612</entry>
+        <entry>wq</entry>
+        <entry>aq</entry>
+        <entry>qa</entry>
+        <entry>545</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
