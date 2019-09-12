@@ -1,11 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coroutine" />
+      <item value="Coroutine Context" />
+      <item value="Coroutine Scope" />
+      <item value="* Global scope is used to launch top-level coroutines which are operating on the whole application lifetime * and are not cancelled prematurely. * Another use of the global scope is operators running in [Dispatchers.Unconfined], which don't have any job associated with them." />
       <item value="conscrypt" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="4" />
+        <entry key="ENGLISH" value="5" />
       </map>
     </option>
   </component>
