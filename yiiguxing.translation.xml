@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="coroutines" />
+      <item value="Interrupted Exception" />
       <item value="refactor, migrate OkHttp http call to Kotlin Coroutines" />
       <item value="refactor, migrate OkHttp calling to Kotlin Coroutines" />
       <item value="Coroutines" />
@@ -15,8 +17,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="9" />
+        <entry key="CHINESE" value="10" />
+        <entry key="ENGLISH" value="10" />
       </map>
     </option>
   </component>
